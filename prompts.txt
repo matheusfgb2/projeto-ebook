@@ -1,0 +1,6 @@
+Prompt: Crie um título envolvente para um ebook sobre cuidados com plantas em casa
+Prompt: Gere uma introdução amigável para um guia de jardinagem doméstica
+Prompt: Liste os principais tipos de plantas fáceis de cuidar em ambientes internos
+Prompt: Explique como regar, podar e fertilizar plantas de forma simples
+Prompt: Crie um capítulo sobre como lidar com pragas comuns em plantas domésticas
+Prompt: Gere uma conclusão motivadora para o leitor continuar cultivando plantas

@@ -9,7 +9,7 @@ Utilizei prompts bem estruturados para interagir com o ChatGPT e gerar conteúdo
 ## 📂 Estrutura
 
 - `prompts.txt`: lista dos comandos utilizados para gerar o conteúdo
-- `output/guia-plantas.pdf`: arquivo final do ebook gerado
+- `guia-plantas.pdf`: arquivo final do ebook gerado
 - `README.md`: este arquivo com as instruções e detalhes do projeto
 
 ## 🔗 Referência
@@ -17,4 +17,5 @@ Utilizei prompts bem estruturados para interagir com o ChatGPT e gerar conteúdo
 Inspirado no projeto original de [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook)
 
 ---
+
 
